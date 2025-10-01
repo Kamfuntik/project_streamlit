@@ -1,0 +1,9 @@
+{
+  "rmse": 2.417145440619795,
+  "mae": 1.930495041517001,
+  "r2": 0.7005600069120701,
+  "n_train": 31990,
+  "n_valid": 7998,
+  "n_test": 9998,
+  "pipeline_path": "/content/drive/MyDrive/taxi_model_artifacts/best_pipeline.pkl"
+}
